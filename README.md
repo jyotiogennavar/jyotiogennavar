@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jyoti Ogennavar
-- 👀 I’m interested in Frontend design and development
-- 🌱 I’m currently learning Javascript
+- 👀 Frontend designer and Developer
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Frontend projects
-- 📫 You can reach me on mailId - jyotiogennavar31@gmail.com
+- 📫 You can reach me on email - jyotiogennavar31@gmail.com
                         
 
