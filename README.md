@@ -47,16 +47,12 @@ const jyoti = {
 
 When I'm not shipping pixels, you'll find me sketching, lost in a good book, marathoning a new K-drama, or following a Spotify rabbit hole into music I've never heard before. I collect languages the way some people collect playlists — six and counting. 🌍
 
----
-
-### 🎧 What I'm listening to
-
 <!-- Swap USERNAME below for your last.fm username, or use the Spotify option in the notes -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://open.spotify.com">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=3" alt="recently played" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -68,10 +64,5 @@ When I'm not shipping pixels, you'll find me sketching, lost in a good book, mar
   <a href="https://x.com/JOgennavar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=FF6FB5&label=visitors" alt="profile views" />
-</p>
 
 <p align="center"><i>“The best way to predict the future is to invent it — preferably with a nice transition.” ✦</i></p>
